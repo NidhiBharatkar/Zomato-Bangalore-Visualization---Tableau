@@ -42,18 +42,18 @@ In the highly competitive restaurant industry, Zomato seeks to optimize its serv
 Tableau: For data visualization and dashboard creation. Excel/CSV: Data cleaning and preparation.
 
 ## Key Insights
-Customer Experience Overview
+### Customer Experience Overview
 * 1. Online Ordering: The dashboard shows that Koramangala, HSR Layout, and Bangalore have the most restaurants offering online ordering services. Other neighbourhoods like Jayanagar and Whitefield also have numerous restaurants providing online ordering.
 * 2. Table Bookings: A clear positive correlation exists between restaurants that offer table bookings and their average ratings. Restaurants with table bookings generally have higher ratings compared to those that do not offer the service.
 * 3. Restaurant Ratings: Koramangala, Indiranagar, and HSR Layout lead in terms of higher average ratings for restaurants. These areas are popular and have many high-rated restaurants, making them competitive zones for dining.
-Popularity & Cost Analysis
+### Popularity & Cost Analysis
 * 4. Customer Engagement: The Customer Engagement section reveals a 0.3938 correlation between the number of votes (reviews) and restaurant ratings. Restaurants with higher ratings are likely to have more votes, indicating that highly-rated restaurants tend to attract more customer engagement.
 
 * 5. Popular Cuisines: North Indian, Chinese, and Bakery/Desserts are the most popular cuisines in Bangalore. Other popular choices include Biryani, Mithai, and Fast Food. These cuisines are highly preferred by customers and are offered across many restaurants.
 
 * 6. Cost Analysis: The average cost for two people is higher in areas like Koramangala, Indiranagar, and HSR Layout. Restaurants in these areas generally cater to customers who are willing to spend more, while other areas offer more affordable dining options.
 
-Neighbourhood & Restaurant Types Insights
+### Neighbourhood & Restaurant Types Insights
 * 7. Neighborhood Insights: Koramangala and Indiranagar have the highest concentration of restaurants, followed by HSR Layout and Whitefield. These neighborhoods are known for high-rated restaurants and remain popular for dining out.
 
 * 8. Restaurant Types: Quick Bites and Casual Dining are the most common restaurant types across Bangalore. There are fewer Buffet and Pub & Bar restaurants, but these types tend to perform well in specific areas like Koramangala and Indiranagar.
