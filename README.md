@@ -2,8 +2,8 @@
 A brief description of what this project does and who it's for
 
 ## Bengaluru Restaurant Analysis
-Zomato Dataset
-PROBLEM STATMENT
+### Zomato Dataset
+#### PROBLEM STATMENT
 
 In the highly competitive restaurant industry, Zomato seeks to optimize its service offerings by identifying key operational improvements that enhance customer satisfaction and restaurant performance. With the rapid growth of online food delivery and increasing demand for diverse cuisines, Zomato Bangalore aims to analyze trends in customer preferences, restaurant ratings, and engagement metrics. The challenge is to uncover actionable insights from the available restaurant data, including online ordering behavior, table bookings, popular cuisine types, customer ratings, and reviews. This analysis will help Zomato improve restaurant visibility, enhance customer satisfaction, optimize cost and pricing strategies, and boost overall restaurant performance. The goal is to provide data-driven solutions to increase restaurant popularity and streamline operations.
 
